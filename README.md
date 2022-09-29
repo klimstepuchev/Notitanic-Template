@@ -3,7 +3,7 @@
 <h1 align="center">Website layout Portfolio Template</h1>
 
 # Info
-Portfolio [website]https://klimstepuchev.github.io/Portfolio-Site-For-A-Web-Designer/) layout template, suitable for any profession
+Portfolio [website](https://klimstepuchev.github.io/Portfolio-Site-For-A-Web-Designer/) layout template, suitable for any profession
 
 # Description
 * Adaptive
